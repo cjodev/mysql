@@ -2,7 +2,7 @@
 ## MySQL 5.7
 ##
 FROM centos:7
-MAINTAINER "cytopia" <cytopia@everythingcli.org>
+MAINTAINER "cjodev" <chavdar.jodev@aurea.com>
 
 
 ##
@@ -11,9 +11,9 @@ MAINTAINER "cytopia" <cytopia@everythingcli.org>
 LABEL \
 	name="cytopia's MySQL 5.7 Image" \
 	image="mysql-5.7" \
-	vendor="cytopia" \
+	vendor="cjodev" \
 	license="MIT" \
-	build-date="2017-09-28"
+	build-date="2019-03-19"
 
 
 ###
