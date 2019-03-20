@@ -2,12 +2,6 @@
 
 **MySQL 5.7 Docker on CentOS 7**
 
-[![Devilbox](https://raw.githubusercontent.com/cytopia/devilbox/master/.devilbox/www/htdocs/assets/img/devilbox_80.png)](https://github.com/cytopia/devilbox)
-
-<sub>This docker image is part of the **[devilbox](https://github.com/cytopia/devilbox)**</sub>
-
-----
-
 ## Options
 
 ### Environmental variables
