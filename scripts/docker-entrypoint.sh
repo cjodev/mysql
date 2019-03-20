@@ -133,7 +133,7 @@ fi
 ###
 ### MySQL Password Options
 ###
-if ! set | grep '^MYSQL_ROOT_PASSWORD=' >/dev/null 2>&1; then
+if ! set | grep '^MYSQL_ROOT_PASSWORD=admin' >/dev/null 2>&1; then
 	log "err" "\$MYSQL_ROOT_PASSWORD must be set."
 	exit 1
 fi
